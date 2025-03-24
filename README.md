@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hisaos
-- 👀 I’m interested in game development in Unity, and learning natural languages, hehe.
-- 🌱 I’m currently learning Unity, C#, Chinese, Spanish, ... and mathematics.
-- 📫 How to reach me: [@pede_in_black](https://twitter.com/pede_in_black) and [LinkedIn](https://www.linkedin.com/in/hisaos/)
+- 👀 I’m interested in game development in C#, Unity/Unreal Engine
+- 🌱 I’m currently learning software architecture, both privately and as a student at [Advanced Institute of Industrial Technology](https://aiit.ac.jp/english/).
+- 📫 Please get in touch on [facebook](https://www.facebook.com/hisao.setoguchi) or [LinkedIn](https://www.linkedin.com/in/hisaos/)
 
 <!---
 hisaos/hisaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
